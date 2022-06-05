@@ -2,3 +2,4 @@ CHINI RESOLUSI
 = Konsisten belajar setiap hari
 - Belajar data science
 - Belajar statistika dasar
+- Belajar aljabar linier dasar
